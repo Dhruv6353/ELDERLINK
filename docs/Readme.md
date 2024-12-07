@@ -66,7 +66,7 @@ ElderLink aims to bridge the gap between elderly individuals seeking assistance 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://git.cs.dal.ca/courses/2024-winter/csci5308/Group12.git
+git clone https://github.com/Dhruv6353/ELDERLINK.git
 ```
 
 ### 2. Navigate to the Project Directory
@@ -136,9 +136,9 @@ Open your preferred web browser and navigate to [http://localhost:5173](http://l
 
 ### 1. Clone the Repository
 ```bash
- git clone git@git.cs.dal.ca:courses/2024-winter/csci5308/Group12.git 
+ git clone git@github.com/Dhruv6353/ELDERLINK.git
  OR
- git clone https://git.cs.dal.ca/courses/2024-winter/csci5308/Group12.git
+ git clone https://github.com/Dhruv6353/ELDERLINK.git
 ```
 
 ### 2. Navigate to the project directory
@@ -232,28 +232,3 @@ This CI/CD flow automates the software development lifecycle for the "Elderlink"
 - Deploys frontend build files to the server's `/var/www/html` directory, presumably for web server accessibility.
 
 This workflow ensures efficient integration, testing, code quality analysis, publishing, and deployment of changes to the "Elderlink" application.
-
-
-
-## Credits 
-
-### Developer Team
-
-| Name                                | Email              |
-| ----------------------------------- | ------------------ |
-| Abhishek Kapoor | ab210637@dal.ca |
-| Khush Patel | kh472243@dal.ca |
-| Vyansi Dineshbhai Diyora | vy744910@dal.ca |
-| Piyush Rakeshbhai Joshi | py287300@dal.ca |
-| Riddho Bhadra | rd588330@dal.ca |
-
-
-### Client Team
-
-| Name                             | Email           |
-| -------------------------------- | --------------- |
-| Yash Walia | yashwalia@dal.ca |
-| Kaushal Vijay Sapara | ks807529@dal.ca |
-| Yukta Rajkumar Gurnani | yk868576@dal.ca |
-| Raj Kamlesh Patel | rj227488@dal.ca |
-| Harsh Maisuri | hr786278@dal.ca |
