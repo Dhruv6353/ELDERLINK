@@ -2,7 +2,7 @@ import axios from "axios";
 import { toast } from "react-toastify";
 
 const request = axios.create({
-  baseURL: "http://csci5308vm12.research.cs.dal.ca:8080/",
+  baseURL: "https://backendprac-production.up.railway.app:8080/",
 
   timeout: 12400000,
   responseType: "json",
