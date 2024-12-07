@@ -72,7 +72,7 @@ git clone https://github.com/Dhruv6353/ELDERLINK.git
 ### 2. Navigate to the Project Directory
 
 ```bash
-cd Group12/frontend
+cd frontend
 ```
 
 ### 3. Install Dependencies
@@ -143,7 +143,7 @@ Open your preferred web browser and navigate to [http://localhost:5173](http://l
 
 ### 2. Navigate to the project directory
 ```bash
-cd Group12/backend
+cd backend
 ```
 
 ### 3. Build the project
